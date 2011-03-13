@@ -1,0 +1,84 @@
+skge.o: skge.c /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skaddr.o: skaddr.c /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skgehwt.o: skgehwt.c \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skgeinit.o: skgeinit.c \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skgepnmi.o: skgepnmi.c \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skgesirq.o: skgesirq.c \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+ski2c.o: ski2c.c /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+sklm80.o: sklm80.c /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skqueue.o: skqueue.c \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skrlmt.o: skrlmt.c /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+sktimer.o: sktimer.c \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skvpd.o: skvpd.c /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skxmac2.o: skxmac2.c \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+skcsum.o: skcsum.c /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+uboot_skb.o: uboot_skb.c \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h
+uboot_drv.o: uboot_drv.c \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/common.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/configs/pavo.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/cmd_confdefs.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/linux/bitops.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/asm/bitops.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/linux/types.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/linux/config.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/linux/posix_types.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/linux/stddef.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/asm/posix_types.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/asm/types.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/asm/byteorder.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/linux/byteorder/swab.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/linux/byteorder/generic.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/asm/sgidefs.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/asm/system.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/asm/ptrace.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/asm/isadep.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/linux/string.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/asm/string.h \
+  /home/tools/mips/mipseltools-gcc412-glibc261/bin/../lib/gcc/mipsel-linux/4.1.2/include/stdarg.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/part.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/ide.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/flash.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/image.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/asm/u-boot.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/asm/global_data.h \
+  /home/work/jz4740/u-boot/u-boot-1.1.6/include/asm/regdef.h
